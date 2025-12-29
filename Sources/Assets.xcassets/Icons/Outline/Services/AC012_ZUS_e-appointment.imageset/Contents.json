@@ -1,0 +1,17 @@
+
+{
+  "images" : [
+    {
+      "filename" : "AC012_ZUS_e-appointment.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true,
+    "template-rendering-intent" : "template"
+  }
+}

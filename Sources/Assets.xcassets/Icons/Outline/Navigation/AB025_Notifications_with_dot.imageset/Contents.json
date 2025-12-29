@@ -1,0 +1,16 @@
+
+{
+  "images" : [
+    {
+      "filename" : "AB025_Notifications_with_dot 2.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

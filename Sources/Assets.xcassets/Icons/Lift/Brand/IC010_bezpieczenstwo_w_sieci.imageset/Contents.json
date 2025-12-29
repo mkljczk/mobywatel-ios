@@ -1,0 +1,16 @@
+
+{
+  "images" : [
+    {
+      "filename" : "IC010_bezpieczenstwo_w_sieci.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

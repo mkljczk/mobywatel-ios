@@ -1,0 +1,16 @@
+
+{
+  "images" : [
+    {
+      "filename" : "IB015_PWZDentysta_card_mini.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

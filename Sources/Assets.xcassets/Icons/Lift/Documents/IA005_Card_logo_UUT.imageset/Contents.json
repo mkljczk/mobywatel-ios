@@ -1,0 +1,16 @@
+
+{
+  "images" : [
+    {
+      "filename" : "IA005_Card_logo_UUT.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

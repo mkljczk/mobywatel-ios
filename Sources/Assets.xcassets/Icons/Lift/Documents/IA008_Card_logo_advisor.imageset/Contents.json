@@ -1,0 +1,16 @@
+
+{
+  "images" : [
+    {
+      "filename" : "IA008_Card_logo_advisor.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

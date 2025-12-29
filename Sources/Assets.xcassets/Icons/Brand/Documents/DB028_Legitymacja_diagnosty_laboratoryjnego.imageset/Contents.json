@@ -1,0 +1,17 @@
+
+{
+  "images" : [
+    {
+      "filename" : "DB028_Legitymacja_diagnosty_laboratoryjnego.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true,
+    "template-rendering-intent" : "template"
+  }
+}

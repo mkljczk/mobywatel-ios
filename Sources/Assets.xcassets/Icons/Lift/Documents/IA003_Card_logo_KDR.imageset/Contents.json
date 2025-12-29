@@ -1,0 +1,16 @@
+
+{
+  "images" : [
+    {
+      "filename" : "IA003_Card_logo_KDR.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
